@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kparmington
-- 👀 I’m interested in NYC
+- 👀 I’m interested in Algo Trading
 - 🌱 I’m currently learning Pine & Python
 - 💞️ I’m looking to collaborate on Finding Alpha
 
